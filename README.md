@@ -2,7 +2,7 @@
 
 O Albion VIP Client é o motor de inteligência de mercado definitivo para Albion Online. Capture dados, monitore seus lucros e mantenha-se à frente no mercado VIP.
 
-## 🚀 Novidades da v1.3.1
+## 🚀 Novidades da v1.3.2
 *   **Identidade VIP**: Agora integrado com sua foto do Google para um perfil premium.
 *   **Gestão de Personagens**: Detecção automática e persistência de múltiplos personagens vinculados ao seu e-mail.
 *   **Sincronização em Tempo Real**: Contador de ordens VIP agora reflete instantaneamente o status do servidor.
@@ -11,7 +11,7 @@ O Albion VIP Client é o motor de inteligência de mercado definitivo para Albio
 *   **Suporte NoPing/ExitLag**: Compatibilidade aprimorada via Modo NDIS Legado.
 
 ## 📦 Como Instalar
-1.  Baixe o `Albion.VIP.Setup.1.3.1.exe` nos Assets abaixo.
+1.  Baixe o `Albion.VIP.Setup.1.3.2.exe` nos Assets abaixo.
 2.  Execute o instalador e entre com sua conta Google.
 3.  Certifique-se de ter o **NpCap** instalado (o App solicitará se necessário).
 4.  No jogo, mude de mapa para que o App identifique seu personagem.
