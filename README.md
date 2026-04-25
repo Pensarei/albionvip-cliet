@@ -1,35 +1,24 @@
-# 🏆 Albion VIP - Desktop Client
+# Albion VIP - Cliente Desktop v1.3.1
 
-Seja bem-vindo ao **Albion VIP**, o rastreador de mercado mais avançado e seguro para Albion Online. Este aplicativo foi desenvolvido para traders profissionais que buscam o máximo desempenho e sigilo absoluto.
+O Albion VIP Client é o motor de inteligência de mercado definitivo para Albion Online. Capture dados, monitore seus lucros e mantenha-se à frente no mercado VIP.
 
-## 🚀 Principais Recursos
+## 🚀 Novidades da v1.3.1
+*   **Identidade VIP**: Agora integrado com sua foto do Google para um perfil premium.
+*   **Gestão de Personagens**: Detecção automática e persistência de múltiplos personagens vinculados ao seu e-mail.
+*   **Sincronização em Tempo Real**: Contador de ordens VIP agora reflete instantaneamente o status do servidor.
+*   **Multi-Região Inteligente**: Suporte total e automático para servidores West, East e Europe.
+*   **Interface Limpa**: Novo sistema de logs minimalista e notificações de atualização via banner dourado.
+*   **Suporte NoPing/ExitLag**: Compatibilidade aprimorada via Modo NDIS Legado.
 
-### 🛡️ Privacidade Total (Modo VIP)
-Ao ativar a **Privacidade Total** nas configurações, seus dados são enviados exclusivamente para sua base de dados privada. Suas rotas, itens e lucros permanecem 100% invisíveis para a comunidade e concorrentes.
+## 📦 Como Instalar
+1.  Baixe o `Albion.VIP.Setup.1.3.1.exe` nos Assets abaixo.
+2.  Execute o instalador e entre com sua conta Google.
+3.  Certifique-se de ter o **NpCap** instalado (o App solicitará se necessário).
+4.  No jogo, mude de mapa para que o App identifique seu personagem.
 
-### ⚡ Compatibilidade com Aceleradores (NoPing / ExitLag)
-O Albion VIP possui suporte nativo para túneis de rede. Se você utiliza aceleradores, basta seguir o tutorial integrado de **Modo NDIS (Legado)** para garantir 100% de captura sem quedas.
-
-### 📊 Console de Rastreio Inteligente
-Acompanhe em tempo real:
-- **📦 Mercado**: Captura instantânea de ordens de venda e compra.
-- **📜 Histórico**: Sincronização de dados de preços passados.
-- **📍 Localização**: Atualização automática de taxas por cidade.
-
----
-
-## 🛠️ Instalação e Uso
-
-1. **Download**: Baixe o arquivo `Albion VIP Setup.exe` deste repositório.
-2. **Instalação**: Execute o instalador e siga os passos na tela.
-3. **Login**: Use sua conta Google vinculada ao AlbionVIP.com.
-4. **Captura**: Clique em **"Iniciar Captura"** e abra o Albion Online.
-5. **Atenção**: Certifique-se de executar o app como **Administrador** para que o driver NpCap funcione corretamente.
-
-## 🔒 Segurança e Termos
-
-- **100% Safe**: Atuamos apenas na leitura passiva de rede (Sniffing), sem injetar códigos ou modificar arquivos do jogo. Totalmente em conformidade com os termos de uso da Sandbox Interactive.
-- **Driver de Rede**: O App utiliza o **NpCap** para alta performance. O instalador já inclui a versão recomendada.
+## 🛡️ Segurança e Privacidade
+*   **Dados Privados**: Suas ordens VIP são enviadas de forma segura e isolada, nunca compartilhadas com o radar público.
+*   **Criptografia**: O App informa se seus dados estão sendo criptografados pelo jogo.
 
 ---
-**Albion VIP** - *Domine o mercado, maximize seu lucro.*
+© 2026 Albion VIP - Inteligência de Mercado.
