@@ -1,4 +1,4 @@
-# Albion VIP - Cliente Desktop v1.3.1
+# Albion VIP - Cliente Desktop v1.3.2
 
 O Albion VIP Client é o motor de inteligência de mercado definitivo para Albion Online. Capture dados, monitore seus lucros e mantenha-se à frente no mercado VIP.
 
